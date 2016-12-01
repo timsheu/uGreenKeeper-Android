@@ -40,4 +40,4 @@ captures/
 *.jks
 
 # Mac OS
-.DS_Store
+*.DS_Store
