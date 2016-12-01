@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微型温室管家</string>
+    <string name="crash_toast_text">侦测到错误发生，透过 E-mail 通知开发者！</string>
+    <string name="connecting">连接管家中</string>
+    <string name="connected">连接成功！</string>
+    <string name="internet_not_avail">请检查网路连线！</string>
+    <string name="temperature_label">温度</string>
+    <string name="humidity_label">湿度</string>
+    <string name="illuminance_label">光照</string>
+    <string name="activity_label">活动</string>
+    <string name="food_label">喂食</string>
+    <string name="credits_label">Credits</string>
+    <string name="key_owner_label">Key Owner</string>
+    <string name="ukeeper_setup_label">环境箱设置</string>
+    <string name="ukeeper_data_label">环境箱数据</string>
+    <string name="connect_server_label">连接管家</string>
+    <string name="switch_label">开关</string>
+</resources>

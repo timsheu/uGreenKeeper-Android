@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ukeeper</string>
+    <string name="crash_toast_text">Crash detected ! Send E-mail report to developer !</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected to Server!</string>
+    <string name="internet_not_avail">An exception was caught. Please check internet availability.</string>
+    <string name="temperature_label">Temperature</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="illuminance_label">Illuminance</string>
+    <string name="activity_label">Activity</string>
+    <string name="food_label">Food</string>
+    <string name="credits_label">Credits</string>
+    <string name="key_owner_label">Key Owner</string>
+    <string name="ukeeper_setup_label">Environment Setup</string>
+    <string name="ukeeper_data_label">Data Chart</string>
+    <string name="connect_server_label">Connect Server</string>
+    <string name="switch_label">Switch</string>
+</resources>
